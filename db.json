@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "name": "mansi agarwal",
+            "status" : "done"
+        },
+        {
+            "name": "neha agarwal",       
+            "status" : "pending"
+        }
+    ]
+}
